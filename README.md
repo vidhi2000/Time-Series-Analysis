@@ -1,1 +1,3 @@
 # Time-Series-Analysis
+
+Time series analysis is a statistical technique that involves analyzing data collected over a period of time in order to understand trends, patterns, and relationships. There are various methods that can be used for time series analysis, including autoregressive integrated moving average (ARIMA) models, seasonal decomposition, and exponential smoothing. These methods can be used to forecast future values, understand the underlying drivers of a time series, and identify anomalous events or trends. In order to effectively analyze time series data, it is important to have a strong understanding of statistical concepts and to be familiar with the strengths and limitations of different analysis methods.
